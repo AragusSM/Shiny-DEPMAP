@@ -64,7 +64,8 @@ because they can be efficiently generated inside R using the raw data. the files
 are spearman valuable targets above the threshold (5 and 10 p-value), and the files without 
 "spearman" are pearson valuable targets with the same p values.
 ----------------------------------------------------------------------------------------
-
+Note: The Github only contains the code and not actually the raw data. in order to generate data
+please go to  https://depmap.org/portal/ and download the data files.
 
 Welp, that is all that is contained inside the current version of the app, explore to your
 heart's content. please feel free to make any and all changes to this folder as you like,
